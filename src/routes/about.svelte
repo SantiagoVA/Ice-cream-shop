@@ -54,7 +54,7 @@
 		 Creado por <a href="https://github.com/SantiagoVA" target=_blank > Santiago Vasquez Arboleda</a> <br>
 	Tecnologias usadas: <br>
 <li>Svelte</li>
-<li>Node</li>
-<li>Express</li>
+<li>Sapper</li>
+<li>Firebase</li>
 </p>
 </section>
