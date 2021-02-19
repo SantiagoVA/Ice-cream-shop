@@ -55,6 +55,5 @@
 	Tecnologias usadas: <br>
 <li>Svelte</li>
 <li>Sapper</li>
-<li>Firebase</li>
 </p>
 </section>
